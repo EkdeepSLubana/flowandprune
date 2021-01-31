@@ -1,6 +1,6 @@
 # A Gradient Flow Framework for Analyzing Network Pruning
 
-Codebase for the paper ["A Gradient Flow Framework for Analyzing Network Pruning"](https://arxiv.org/abs/2009.11839).
+Codebase for the paper ["A Gradient Flow Framework for Analyzing Network Pruning"](https://openreview.net/forum?id=rumv7QmLUue).
 
 ## Requirements
 
